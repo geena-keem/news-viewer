@@ -1,12 +1,13 @@
 <div align="center"><h1>📰 NEWS-VIEWER 🔍</h1></div>
 
-<img src="./src/img/news-viewer.png">
+<img src="./src/img/news-viewer.gif">
 
 **[Features]**
 
-<pre><code>- 외부 <a src="https://newsapi.org/">API</a>를 연동하여 데이터 받아오기
-- 카테고리 기능 구현 
-</code></pre>
+```
+- 외부 API를 연동하여 데이터 받아오기
+- 카테고리 기능 구현
+```
 
 **[Project structure]**
 
@@ -23,7 +24,7 @@
 │  ├─ App.css
 │  ├─ App.js
 │  ├─ App.test.js
-│  ├─ components          컴포넌트
+│  ├─ components
 │  │  ├─ Categories.js
 │  │  ├─ NewsList.js
 │  │  └─ Newsitem.js
@@ -31,7 +32,7 @@
 │  │  └─ ...
 │  ├─ index.css
 │  ├─ index.js
-│  ├─ lib                 Hook
+│  ├─ lib
 │  │  └─ usePromise.js
 │  ├─ logo.svg
 │  ├─ logo.svg
@@ -43,12 +44,12 @@
 
 **[Technology]**
 
-<pre><code>
+```
 React.js
-├─ axios: 네트워크
+├─ axios
 ├─ styled-components
-└─ react-router-dom: 상태관리
-</code></pre>
+└─ react-router-dom
+```
 
 **[Reference]**
 
