@@ -55,5 +55,5 @@ React.js
 
 ```
 리액트를 다루는 기술
-
+News API: https://newsapi.org/s/south-korea-news-api
 ```
