@@ -9,6 +9,16 @@
 - 카테고리 기능 구현
 ```
 
+**[Technology]**
+
+```
+─ JavaScript
+─ React.js
+─ Axios
+─ Styled-components
+─ React-router-dom
+```
+
 **[Project structure]**
 
 ```
@@ -40,16 +50,6 @@
 │  │  └─ NewPage.js
 │  ├─ reportWebVitals.js
 │  └─ ...
-```
-
-**[Technology]**
-
-```
-─ JavaScript
-─ React.js
-─ Axios
-─ Styled-components
-─ React-router-dom
 ```
 
 **[Reference]**
