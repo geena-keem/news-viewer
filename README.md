@@ -45,10 +45,11 @@
 **[Technology]**
 
 ```
-React.js
-├─ axios
-├─ styled-components
-└─ react-router-dom
+─ JavaScript
+─ React.js
+─ Axios
+─ Styled-components
+─ React-router-dom
 ```
 
 **[Reference]**
