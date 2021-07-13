@@ -51,3 +51,9 @@
 │  ├─ reportWebVitals.js
 │  └─ ...
 ```
+
+**[Reference]**
+
+```
+News API: https://newsapi.org/s/south-korea-news-api
+```
